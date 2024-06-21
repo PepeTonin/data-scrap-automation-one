@@ -13,7 +13,7 @@ Este projeto é uma solução de automação desenvolvida em Python para captura
 ## Tecnologias utilizadas
 
 <img src="https://img.shields.io/badge/Python-3.11.3-blue.svg?style=flat-square" alt="python version">
-<img src="https://img.shields.io/badge/Beautiful_Soup-blue.svg?style=flat-square" alt="beautiful soup version">
+<img src="https://img.shields.io/badge/Beautiful_Soup-4.12.2-blue.svg?style=flat-square" alt="beautiful soup version">
 <img src="https://img.shields.io/badge/pandas-2.0.1-blue.svg?style=flat-square" alt="pandas version">
 <img src="https://img.shields.io/badge/tqdm-4.65.0-blue.svg?style=flat-square" alt="tqdm version">
 
@@ -25,19 +25,19 @@ Para rodar este projeto, você precisará ter o [Python 3.11](https://www.python
 
 1. Clone o repositório para sua máquina local.
 
-´´´bash
+´´´ bash
 git clone XXX
 ´´´
 
 2. Navegue até o diretório do projeto.
 
-´´´bash
+´´´ bash
 cd XXX
 ´´´
 
 3. Instale as dependências necessárias.
 
-´´´bash
+´´´ bash
 pip install beautifulsoup4 pandas tqdm
 ´´´
 
