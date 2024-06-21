@@ -1,4 +1,4 @@
-<h1 self-align="center">Automação de Data Scraping</h1>
+<h1 text-align="center">Automação de Data Scraping</h1>
 
 ## Descrição
 
