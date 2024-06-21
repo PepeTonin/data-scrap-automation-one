@@ -25,21 +25,21 @@ Para rodar este projeto, você precisará ter o [Python 3.11](https://www.python
 
 1. Clone o repositório para sua máquina local.
 
-´´´ 
-git clone XXX
-´´´
+```bash
+git clone https://github.com/PepeTonin/data-scrap-automation-one.git
+```
 
 2. Navegue até o diretório do projeto.
 
-´´´ 
-cd XXX
-´´´
+```bash
+cd data-scrap-automation-one
+```
 
 3. Instale as dependências necessárias.
 
-´´´ 
+```bash
 pip install beautifulsoup4 pandas tqdm
-´´´
+```
 
 4. No código, insira a url da página web que deseja capturar os dados. (Lembrando que esse script só será capaz de capturar os dados da página que ele foi pensado para capturar).
 
