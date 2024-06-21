@@ -25,19 +25,19 @@ Para rodar este projeto, você precisará ter o [Python 3.11](https://www.python
 
 1. Clone o repositório para sua máquina local.
 
-´´´ bash
+´´´ 
 git clone XXX
 ´´´
 
 2. Navegue até o diretório do projeto.
 
-´´´ bash
+´´´ 
 cd XXX
 ´´´
 
 3. Instale as dependências necessárias.
 
-´´´ bash
+´´´ 
 pip install beautifulsoup4 pandas tqdm
 ´´´
 
